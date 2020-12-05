@@ -1,9 +1,28 @@
+# Dicas Markdown
 
-# Repositório da M. M. Favalesso
-# lalala
+As "#" são títulos no repositório.
+Duas hash (##) significa um subtítulo. Você pode incluir mais subtítulos. 
 
-<!-- badges: start -->
-<!-- badges: end -->
+# Título 
 
-The goal of nome_do_repo is to ...
+## Substitulo 
 
+### Subtitulo
+
+# Destaque
+
+\*\*negrito\*\* - **negrito**
+\_italico\_ - _italico_
+\~\~riscado\~\~ - riscado 
+
+# Listas
+
+1. primeiro
+2. segundo
+3. terceiro
+
+ou
+
+* item 1
+* item 2
+* item 3
